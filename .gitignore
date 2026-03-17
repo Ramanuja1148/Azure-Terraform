@@ -17,3 +17,6 @@ Thumbs.db
 
 # VSCode
 .vscode/
+
+# variables
+var.sh
