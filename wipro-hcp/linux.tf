@@ -16,7 +16,7 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
     name     = "HCP-RG"
-    location = "canadacentral"
+    location = "centralindia"
 }
 
 resource "azurerm_virtual_network" "rg" {
